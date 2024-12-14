@@ -1,3 +1,3 @@
 # My-New-Hub
 <br>
-Auther: Sakshi Parihar
+Author: Sakshi Parihar
